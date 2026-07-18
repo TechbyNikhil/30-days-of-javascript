@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [0443-string-compression](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1071-greatest-common-divisor-of-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
