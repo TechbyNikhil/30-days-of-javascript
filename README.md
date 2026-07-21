@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
